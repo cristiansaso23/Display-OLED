@@ -35,11 +35,12 @@ int main(void)
     __enable_irq();
 
     GUI_Init();
-    GUI_DispString("Tec.digitales II 2024\n");
+    GUI_DispString("Gracias por todo\n");
     GUI_DispString("\n");
-    GUI_DispString("UTN-FRT\n");
+    GUI_DispString("Florcita\n");
     GUI_DispString("\n");
-    GUI_DispString("PSoC 6");
+
+
 
     for(;;)
     {
