@@ -35,9 +35,9 @@ int main(void)
     __enable_irq();
 
     GUI_Init();
-    GUI_DispString("Gracias por todo\n");
+    GUI_DispString("TECNICAS DIGITALES II\n");
     GUI_DispString("\n");
-    GUI_DispString("Florcita\n");
+    GUI_DispString("2023\n");
     GUI_DispString("\n");
 
 
